@@ -83,4 +83,3 @@ console.log(towerBuilder(4));
 
 This code challenge is open-source under the MIT License. Feel free to use, modify, and distribute it as needed.
 
-```
